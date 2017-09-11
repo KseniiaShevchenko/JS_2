@@ -1,0 +1,28 @@
+h1, button {
+	margin: 5px;
+}
+
+input {
+	margin: 15px auto;
+	height: 40px;
+	width: 236px;
+	border: 2px solid #0f0;
+	border-radius: 3px;
+	padding: 5px;
+}
+
+button {
+	display: block;
+	margin: 5px auto;
+	height: 40px;
+	width: 250px;
+}
+
+h1 {
+	color: darkmagenta;
+	text-align: center;
+}
+
+div {
+	text-align: center;
+}
